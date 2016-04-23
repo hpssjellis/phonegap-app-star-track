@@ -1,10 +1,10 @@
 {
     "name": "pgb-cloud9",
-    "description": "Sample of all of my Phonegap Build Repositories Hello World Apps.",
+    "description": "Sample of phonegap start track but running on cloud9.",
     "version": "0.0.3",
     "repository": {
         "type": "git",
-        "url": "https://github.com/hpssjellis/pgb-cloud9.git"
+        "url": "https://github.com/hpssjellis/phonegap-app-star-track.git"
 		
     },
     "private": "false",

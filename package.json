@@ -1,7 +1,8 @@
 {
-    "name": "pgb-cloud9",
-    "description": "Sample of phonegap start track but running on cloud9.",
-    "version": "0.0.3",
+    "name": "phonegap-app-star-track",
+    "description": "PhoneGap Star Track App hosted on Heroku on cloud9.",
+    "version": "0.0.4",
+     "main": "./index.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/hpssjellis/phonegap-app-star-track.git"
@@ -9,15 +10,14 @@
     },
     "private": "false",
     "scripts": {
-        "start": "node cloud9.js"
+    "start": "node ./index.js"
     },
     "engines": {
-        "node": ">=0.8.0",
-        "npm": ">=1.1.0"
+       "node": ">=0.10.0",
+        "npm": ">=1.2.0"
     },
     "dependencies": {
-        "connect": ">=2.15.0",
-        "connect-phonegap": ">=0.9.1"
+        "phonegap": "^6.1.0"
     },
     "devDependencies": {
     },
@@ -31,3 +31,5 @@
 
     ]
 }
+
+

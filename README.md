@@ -8,7 +8,22 @@ Trying to get star tracker working on Cloud 9
 
 
 
+load as a new Node workspace with this repository link
 
+https://github.com/hpssjellis/phonegap-app-star-track.git
+
+then run these two commands
+
+npm install
+
+
+npm start
+
+then preview running app and use that URL to load Star Track on the Phonegap develper App.
+
+Very Cool. Thanks for the help Tommy-Carlos Williams and your blog at
+
+http://phonegap.com/blog/2016/04/21/introducing-star-track-by-phonegap/
 
 
 

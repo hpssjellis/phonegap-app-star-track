@@ -7,4 +7,5 @@ phonegap.serve({
   browser: true
 }, function(e) {
   console.log((e) ? e.message : 'server is running');
+  console.log('Try this link in your Phonegap Developer App  http://'+process.env.C9_HOSTNAME);
 });

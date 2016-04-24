@@ -2,6 +2,33 @@
 
 A PhoneGap example app using [Framework7 HTML Framework](http://framework7.io/) and the [Spotify API](https://developer.spotify.com/web-api/).
 
+
+By Jeremy Ellis April 24, 2016
+Trying to get star tracker working on Cloud 9 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------- original readme----------------------------
+
+
 ## Previewing the app
 
 ### Requirements

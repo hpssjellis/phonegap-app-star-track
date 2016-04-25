@@ -38,7 +38,7 @@ Note: Other imported phonegap apps just need cloud9serve.js copied and pasted in
 1. `phonegap create myframe7 --template phonegap-template-framework7`
 1. `phonegap create myblank --template blank`
 1. `phonegap create myhello --template hello-world`
-1. `phonegap create myreact--template react-hot-loader` 
+1. `phonegap create myreact --template react-hot-loader` 
 
 
 Note: If you get an error running cloud9serve.js make sure you don't have it running in another terminal. Stop the other terminal with ctrl-C first.

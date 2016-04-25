@@ -5,11 +5,11 @@ A PhoneGap example app using [Framework7 HTML Framework](http://framework7.io/) 
 
 By Jeremy Ellis April 24, 2016
 
-star tracker now works on Cloud 9 
+Star Track now works on Cloud 9 with the Phonegap Developer App
 
 
 
-load as a new Node.js workspace with this repository link
+Load as a new Cloud9 Node.js workspace with this repository link
 
 https://github.com/hpssjellis/phonegap-app-star-track.git
 

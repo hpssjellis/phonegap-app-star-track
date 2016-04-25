@@ -2,7 +2,7 @@
     "name": "phonegap-app-star-track",
     "description": "PhoneGap Star Track App hosted on Heroku on cloud9.",
     "version": "0.0.4",
-     "main": "./index.js",
+     "main": "./cloud9serve.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/hpssjellis/phonegap-app-star-track.git"
@@ -10,7 +10,7 @@
     },
     "private": "false",
     "scripts": {
-    "start": "node ./index.js"
+    "start": "node ./cloud9serve.js"
     },
     "engines": {
        "node": ">=0.10.0",

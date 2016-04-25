@@ -4,26 +4,48 @@ A PhoneGap example app using [Framework7 HTML Framework](http://framework7.io/) 
 
 
 By Jeremy Ellis April 24, 2016
-Trying to get star tracker working on Cloud 9 
+
+star tracker now works on Cloud 9 
 
 
 
-load as a new Node workspace with this repository link
+load as a new Node.js workspace with this repository link
 
 https://github.com/hpssjellis/phonegap-app-star-track.git
 
-then run these two commands
+then run these two commands in a terminal at the bottom of the Cloud9 IDE
 
-npm install
+1. npm install
 
 
-npm start
+1. Right click run cloud9serve.js
 
-then preview running app and use that URL to load Star Track on the Phonegap develper App.
+Click the cloud9 URL given in the terminal window
 
-Very Cool. Thanks for the help Tommy-Carlos Williams and your blog at
+Thanks for the help Tommy-Carlos Williams and your blog at
 
 http://phonegap.com/blog/2016/04/21/introducing-star-track-by-phonegap/
+
+
+
+
+Note: Other imported phonegap apps just need cloud9serve.js in the main folder area and right click run it. You can import using the commands
+
+1. git clone https://github.com/hpssjellis/phonegap-app-star-track.git
+1. phonegap create myframe7 --template phonegap-template-framework7
+1. phonegap create myblank --template blank
+1. phonegap create myhello --template hello-world
+1. phonegap create myreact--template react-hot-loader 
+
+
+
+Use this at your own risk
+
+By Jeremy Ellis
+
+website http://rocksetta.com
+
+twitter @rocksetta
 
 
 

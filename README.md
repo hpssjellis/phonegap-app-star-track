@@ -23,7 +23,7 @@ then run these two commands in a terminal at the bottom of the Cloud9 IDE
 
 note: `npm start` will only work for the main folder
 
-Click the cloud9 URL given in the terminal window
+Click the cloud9 URL given in the terminal window, I email the url to myself to load on the Phonegap Developer App so I don't make a mistake.
 
 Thanks for the help Tommy-Carlos Williams and your blog at
 
@@ -32,7 +32,7 @@ http://phonegap.com/blog/2016/04/21/introducing-star-track-by-phonegap/
 
 
 
-Note: Other imported phonegap apps just need cloud9serve.js in the main folder area and right click run it. You can import using the commands
+Note: Other imported phonegap apps just need cloud9serve.js copied and pasted into the Apps main folder area and right click run it. You can import using the commands
 
 1. `git clone https://github.com/hpssjellis/phonegap-app-star-track.git`
 1. `phonegap create myframe7 --template phonegap-template-framework7`

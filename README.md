@@ -15,10 +15,13 @@ https://github.com/hpssjellis/phonegap-app-star-track.git
 
 then run these two commands in a terminal at the bottom of the Cloud9 IDE
 
-1. npm install
+1. ```npm install```
 
 
-1. Right click run cloud9serve.js
+1. Right click run `cloud9serve.js`
+ 
+
+note: `npm start` will only work for the main folder
 
 Click the cloud9 URL given in the terminal window
 
@@ -31,15 +34,15 @@ http://phonegap.com/blog/2016/04/21/introducing-star-track-by-phonegap/
 
 Note: Other imported phonegap apps just need cloud9serve.js in the main folder area and right click run it. You can import using the commands
 
-1. git clone https://github.com/hpssjellis/phonegap-app-star-track.git
-1. phonegap create myframe7 --template phonegap-template-framework7
-1. phonegap create myblank --template blank
-1. phonegap create myhello --template hello-world
-1. phonegap create myreact--template react-hot-loader 
+1. `git clone https://github.com/hpssjellis/phonegap-app-star-track.git`
+1. `phonegap create myframe7 --template phonegap-template-framework7`
+1. `phonegap create myblank --template blank`
+1. `phonegap create myhello --template hello-world`
+1. `phonegap create myreact--template react-hot-loader` 
 
 
 
-Use this at your own risk
+Use this information at your own risk
 
 By Jeremy Ellis
 

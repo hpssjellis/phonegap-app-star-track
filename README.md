@@ -11,7 +11,7 @@ Installation Video at https://youtu.be/3FPoWLIPjlg
 [![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
 
 
-[![Instructional video](https://youtu.be/3FPoWLIPjlg/0.jpg)](https://youtu.be/3FPoWLIPjlg)
+[![Instructional video](http://img.youtube.com/vi/https://youtu.be/3FPoWLIPjlg/0.jpg)](https://youtu.be/3FPoWLIPjlg)
 
 
 

@@ -8,7 +8,12 @@ By Jeremy Ellis April 24, 2016
 
 Installation Video at https://youtu.be/3FPoWLIPjlg
 
-[https://youtu.be/3FPoWLIPjlg](https://youtu.be/3FPoWLIPjlg)
+[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
+
+
+[![Instructional video](https://youtu.be/3FPoWLIPjlg/0.jpg)](https://youtu.be/3FPoWLIPjlg)
+
+
 
 Star Track now works on Cloud 9 with the Phonegap Developer App
 

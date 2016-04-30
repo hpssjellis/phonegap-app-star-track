@@ -9,9 +9,9 @@ By Jeremy Ellis April 24, 2016
 Installation Video at https://youtu.be/3FPoWLIPjlg
 
 [![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
+http://img.youtube.com/vi/<insert-youtube-video-id-here>/0.jpg
 
-
-[![Instructional video](http://img.youtube.com/vi/https://youtu.be/3FPoWLIPjlg/0.jpg)](https://youtu.be/3FPoWLIPjlg)
+[![Instructional video](http://img.youtube.com/vi/3FPoWLIPjlg/0.jpg)](https://youtu.be/3FPoWLIPjlg)
 
 
 

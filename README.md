@@ -8,7 +8,7 @@ By Jeremy Ellis April 24, 2016
 
 Video at https://youtu.be/3FPoWLIPjlg
 
-[!https://youtu.be/3FPoWLIPjlg](https://youtu.be/3FPoWLIPjlg)
+![https://youtu.be/3FPoWLIPjlg](https://youtu.be/3FPoWLIPjlg)
 
 Star Track now works on Cloud 9 with the Phonegap Developer App
 
